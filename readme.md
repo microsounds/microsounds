@@ -4,7 +4,7 @@
 </a>
 
 ### About Me
-I like starry night skies, people watching, the color `#13C8BA`, and the modern Unix programming environment.
+I like starry night skies, people watching, and the Unix programming environment.
 
 ### Some Links
 * My Dotfiles — <https://github.com/microsounds/atelier>
