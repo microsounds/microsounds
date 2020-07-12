@@ -1,4 +1,8 @@
-### Links
+<hr>
+<hr>
+<hr>
+
+### Some Links
 * My Dotfiles — <https://github.com/microsounds/atelier>
 * Website — <https://microsounds.github.io>
 
