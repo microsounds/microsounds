@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=UL8IpdFGeHU">
 	<!-- original: https://gelbooru.com/index.php?page=post&s=view&id=3757995 -->
-	<img src="https://github.com/microsounds/microsounds/raw/master/profile/bg.png">
+	<img align="right" height="300px" src="https://github.com/microsounds/microsounds/raw/master/profile/bg.png">
 </a>
 
 ### About Me
