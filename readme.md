@@ -4,10 +4,17 @@
 </a>
 
 ### About Me
-I like starry night skies, people watching, and the Unix programming environment.
+There isn't much to say at the moment, I like starry night skies, people watching, and the unix programming environment.
 
 ### Some Links
 * My Dotfiles — <https://github.com/microsounds/atelier>
-* Website — <https://microsounds.github.io>
+* My Website — <https://microsounds.github.io>
 
-<sup>Unless otherwise stated, source code is licensed GPLv3 or later, written content is licensed CC BY-SA 4.0.</sup>
+### Contact Me
+If it's about a project, feel free to open an issue.
+
+<hr>
+<img align="right" src="https://github.com/microsounds/microsounds/raw/master/profile/gpl-cc.png">
+<sup>Unless otherwise stated, my repositories are released under the terms of the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a> or later.</sup>
+<br>
+<sup>Written materials are released under a <a href="https://creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-Sharealike 4.0 license</a>.</sup>
