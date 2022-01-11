@@ -1,7 +1,7 @@
 <img align="right"
 	src="https://raw.githubusercontent.com/microsounds/zzzzzzz-stats/master/generated/languages.svg">
 
-![miku](https://microsounds.github.io/static/shimemiku/shime32.png)
+[![miku](https://microsounds.github.io/static/shimemiku/shime32.png)](https://microsounds.github.io/)
 
 _Unix computer zealot, among other things, my hobby is metaprogramming, and being extraordinarily lazy._
 
