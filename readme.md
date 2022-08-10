@@ -1,4 +1,4 @@
-#### About Me
+### :milky_way: :moon: :notes: About Me 
 _Software minimalist and self-styled Unix computer zealot, among other things, my hobbies include metaprogramming and being extraordinarily lazy._
 
 _My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines my stack and graphical shell computing environment._
@@ -12,7 +12,7 @@ _My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines m
 
 [badge]: https://microsounds.github.io/static/button/badge.png
 
-#### Statistics
+### :sparkles: Statistics
 [![stats]](https://github.com/jstrieb/github-stats)
 [![counter]](https://count.getloli.com)
 
@@ -20,7 +20,7 @@ _My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines m
 [counter]: https://count.getloli.com/get/@:microsounds?theme=rule34
 	"since August 2022"
 
-#### License
+### :gift_heart: License
 [![cc](https://microsounds.github.io/static/button/cc.png)][cc_url]
 [![gpl](https://microsounds.github.io/static/button/gpl.png)][gpl_url]
 
