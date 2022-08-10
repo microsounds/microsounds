@@ -1,11 +1,11 @@
-### :milky_way: :moon: :notes: About Me 
+### :milky_way: :moon: :notes: About Me
 _Software minimalist and self-styled Unix computer zealot, among other things, my hobbies include metaprogramming and being extraordinarily lazy._
 
 _My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines my stack and graphical shell computing environment._
 
 <!-- this is about as much ricing as github allows -->
 <a href="https://gelbooru.com/index.php?page=post&s=view&id=5006660">
-	<img align="right" width="400" src="https://microsounds.github.io/static/unused/miku3.png" />
+	<img align="right" width="300" src="https://microsounds.github.io/static/unused/miku3_crop.png" />
 </a>
 
 ## <div align="center">[![badge]](https://microsounds.github.io/) My website: <https://microsounds.github.io/> </div>
