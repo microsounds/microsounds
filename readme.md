@@ -1,7 +1,7 @@
 ### :milky_way: :moon: :notes: About Me
 _Software minimalist and self-styled Unix computer zealot, among other things, my hobbies include metaprogramming and being extraordinarily lazy._
 
-_My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines my stack and graphical shell computing environment._
+_My **[unabridged dotfiles][dotfiles]** outlines my stack and graphical shell computing environment._
 
 <!-- this is about as much ricing as github allows -->
 <a href="https://gelbooru.com/index.php?page=post&s=view&id=5006660">
@@ -10,6 +10,7 @@ _My **[unabridged dotfiles](https://github.com/microsounds/atelier)** outlines m
 
 ## <div align="center">[![badge]](https://microsounds.github.io/) My website: <https://microsounds.github.io/> </div>
 
+[dotfiles]: https://microsounds.github.io/notes/dotfiles.htm
 [badge]: https://microsounds.github.io/static/button/badge.png
 
 ### :sparkles: Statistics
