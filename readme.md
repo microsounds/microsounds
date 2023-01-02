@@ -25,8 +25,7 @@ _My **[unabridged dotfiles][dotfiles]** outlines my stack and graphical shell co
 [![cc](https://microsounds.github.io/static/button/cc.png)][cc_url]
 [![gpl](https://microsounds.github.io/static/button/gpl.png)][gpl_url]
 
-<sub><i>written materials [CC BY-SA 4.0][cc_url], source code [GNU GPLv3+][gpl_url] — © microsounds &lt;<https://github.com/microsounds>&gt;</i><sub>
+<sub><i>written materials [CC BY-SA 4.0][cc_url], source code [GNU GPLv3+][gpl_url] — © 2015-2023 microsounds &lt;<https://github.com/microsounds>&gt;</i><sub>
 
 [cc_url]: https://creativecommons.org/licenses/by-sa/4.0
 [gpl_url]: https://www.gnu.org/licenses/gpl-3.0
-
