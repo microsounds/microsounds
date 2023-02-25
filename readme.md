@@ -4,11 +4,11 @@ _Software minimalist and self-styled Unix computer zealot, among other things, m
 _My **[unabridged dotfiles][dotfiles]** outlines my stack and graphical shell computing environment._
 
 <!-- this is about as much ricing as github allows -->
-<a href="https://gelbooru.com/index.php?page=post&s=view&id=5006660">
-	<img align="right" width="300" src="https://microsounds.github.io/static/unused/miku3_crop.png" />
+<a href="https://gelbooru.com/index.php?page=post&s=view&id=8170739">
+	<img align="right" width="350" src="https://microsounds.github.io/static/unused/miku-desat.png" />
 </a>
 
-## <div align="center">[![badge]](https://microsounds.github.io/) My website: <https://microsounds.github.io/> </div>
+## <div align="center"> [![badge]](https://microsounds.github.io/) My website: <https://microsounds.github.io/> </div>
 
 [dotfiles]: https://microsounds.github.io/notes/dotfiles.htm
 [badge]: https://microsounds.github.io/static/button/badge.png
