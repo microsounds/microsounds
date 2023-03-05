@@ -26,7 +26,7 @@ _My **[unabridged dotfiles][dotfiles]** outlines my stack and graphical shell co
 [![gpl](https://microsounds.github.io/static/button/gpl.png)][gpl_url]
 
 <sub><i>
-"Eres, tú mi lucero, mi gran ilusión, siempre serás real en mi corazón." :cupid:<br/>
+Support creative freedom, consider a [strong copyleft license](https://microsounds.github.io/notes/why-copyleft.htm) for your next creative project.<br/>
 written materials [CC BY-SA 4.0][cc_url], source code [GNU GPLv3+][gpl_url] — © 2015-2023 microsounds &lt;<https://github.com/microsounds>&gt;
 </i></sub>
 
