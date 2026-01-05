@@ -27,7 +27,7 @@ _My **[unabridged dotfiles][dotfiles]** outlines my stack and graphical shell co
 
 <sub><i>
 Support creative freedom, consider a [strong copyleft license](https://microsounds.github.io/notes/why-copyleft.htm) for your next creative project.<br/>
-written materials [CC BY-SA 4.0][cc_url], source code [GNU GPLv3+][gpl_url] — © 2015-2025 microsounds &lt;<https://github.com/microsounds>&gt;
+written materials [CC BY-SA 4.0][cc_url], source code [GNU GPLv3+][gpl_url] — © 2015-2026 microsounds &lt;<https://github.com/microsounds>&gt;
 </i></sub>
 
 [cc_url]: https://creativecommons.org/licenses/by-sa/4.0
